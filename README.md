@@ -32,8 +32,8 @@ const Emamagic = {
     "Coding",
     "Writing And Sharing Software Stuff",
     "Listening to music",
-    "Do Magic Tricks",
-    "Do Sports",
+    "Performing magic tricks",
+    "Engaging in sports",
   }
 }
    
