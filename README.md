@@ -1,13 +1,5 @@
 ## Hi There!, I'm *Emamagic*! :wave:
 
-
-### 🌐 Visit My Portfolio  
-[**emamagic.io**](https://emamagic.github.io/)  
-
-<br/>
-<br/>
-
-
 <div align="center">
   
 </div>
@@ -22,6 +14,9 @@
     </td>
   </tr>
 </table>
+
+
+---
   
 ```
 const Emamagic = {
@@ -30,7 +25,7 @@ const Emamagic = {
   Email: "emamagic.dev@gmail.com",
   Hobbies: {
     "Coding",
-    "Writing And Sharing Software Stuff",
+    "Writing and sharing software stuff",
     "Listening to music",
     "Performing magic tricks",
     "Engaging in sports",
@@ -41,12 +36,12 @@ const Emamagic = {
 
 
 ---
+
 <div align="center">
 
 ### Languages / Tools I know
 
 </div>
-<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" height="50px" alt="Java"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50px" height="50px" alt="Kotlin"/>
@@ -59,8 +54,15 @@ const Emamagic = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50px" height="50px" alt="Android" title="Android"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50px" height="50px" alt="Flutter" title="Flutter"/>
 </p>
+
 <br />
-<br />
+
+<div align="center">
+
+### 🌐 Visit My Portfolio  
+[**emamagic.io**](https://emamagic.github.io/)  
+
+</div>
 
 
 
