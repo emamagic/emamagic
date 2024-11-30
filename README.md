@@ -48,11 +48,13 @@ const Emamagic = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50px" height="50px" alt="Golang"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50px" height="50px" alt="Linux"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50px" height="50px" alt="Dart"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" height="50px" alt="Javascript"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50px" height="50px" alt="Spring" title="Spring"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50px" height="50px" alt="Android" title="Android"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50px" height="50px" alt="Flutter" title="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50px" height="50px" alt="React" title="React"/>
 </p>
 
 <br />
