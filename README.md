@@ -21,7 +21,6 @@
 ```
 const Emamagic = {
   FirstName: "Amirhossein",
-  WorkExperience: "3 Years",
   Email: "emamagic.dev@gmail.com",
   Hobbies: {
     "Coding",
